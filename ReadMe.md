@@ -3,18 +3,29 @@
 I am an aspiring Quality Assurance Engineer with a strong foundation in both automated and manual testing of various software applications, including online stores, client-server applications, and web applications. My journey in QA has equipped me with the skills to develop automation frameworks from scratch and implement them effectively in projects.
 
 ## Skills and Expertise
-### Programming Languages                                                ### Testing Documentation
-- Java                     - JavaScript                                  - Test Plans               - Test Cases
-- Automation Tools         - Selenium WebDriver                          - Checklists               - Bug Reports
-- Cucumber                 - TestNG                                      - Test Design Techniques
-- JUnit                    - Logback                                     ### Methodologies
-- OpenCSV                  - API Testing                                 - Agile                    - Version Control
-- REST Assured             - Postman                                     - Git                      - GitHub
-### Project Management Tools                                             ### Databases
-- Jira                     - Trello                                      - PostgreSQL
+### Programming Languages                                                
+- Java                     - JavaScript                                  
+- Automation Tools         - Selenium WebDriver                          
+- Cucumber                 - TestNG                                     
+- JUnit                    - Logback                                     
+- OpenCSV                  - API Testing                                 
+- REST Assured             - Postman                                     
+### Development Basics   
+- Backend (Java Stack)     - Frontend (JavaScript)    
+### Build Tools 
+- Gradle                   - Maven
+### Testing Documentation
+- Test Plans               - Test Cases
+- Checklists               - Bug Reports
+- Test Design Techniques
+### Methodologies
+- Agile                    - Version Control
+- Git                      - GitHub
+### Project Management Tools                                             
+- Jira                     - Trello                                      
 - Confluence               - TestLink
-### Development Basics                                                   ### Build Tools   
-- Backend (Java Stack)     - Frontend (JavaScript)                       - Gradle                   - Maven
+### Databases
+- PostgreSQL
 ### Additional Tools
 - Appium
 - Docker
