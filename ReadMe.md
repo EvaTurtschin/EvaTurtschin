@@ -3,29 +3,18 @@
 I am an aspiring Quality Assurance Engineer with a strong foundation in both automated and manual testing of various software applications, including online stores, client-server applications, and web applications. My journey in QA has equipped me with the skills to develop automation frameworks from scratch and implement them effectively in projects.
 
 ## Skills and Expertise
-### Programming Languages
-- Java                     - JavaScript
-- Automation Tools         - Selenium WebDriver
-- Cucumber                 - TestNG
-- JUnit                    - Logback
-- OpenCSV                  - API Testing
-- REST Assured             - Postman
-### Project Management Tools
-- Jira                     - Trello
+### Programming Languages                                                ### Testing Documentation
+- Java                     - JavaScript                                  - Test Plans               - Test Cases
+- Automation Tools         - Selenium WebDriver                          - Checklists               - Bug Reports
+- Cucumber                 - TestNG                                      - Test Design Techniques
+- JUnit                    - Logback                                     ### Methodologies
+- OpenCSV                  - API Testing                                 - Agile                    - Version Control
+- REST Assured             - Postman                                     - Git                      - GitHub
+### Project Management Tools                                             ### Databases
+- Jira                     - Trello                                      - PostgreSQL
 - Confluence               - TestLink
-### Databases               
-- PostgreSQL
-### Build Tools              
-- Gradle                   - Maven
-### Development Basics
-- Backend (Java Stack)     - Frontend (JavaScript)
-### Methodologies
-- Agile                    - Version Control
-- Git                      - GitHub
-### Testing Documentation
-- Test Plans               - Test Cases
-- Checklists               - Bug Reports
-- Test Design Techniques
+### Development Basics                                                   ### Build Tools   
+- Backend (Java Stack)     - Frontend (JavaScript)                       - Gradle                   - Maven
 ### Additional Tools
 - Appium
 - Docker
