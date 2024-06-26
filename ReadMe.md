@@ -33,7 +33,7 @@ I am an aspiring Quality Assurance Engineer with a strong foundation in both aut
 I pride myself on my ability to work effectively in teams, communicate clearly, and adapt quickly to new challenges. I am a dedicated problem-solver who continually seeks to learn and improve. My experience includes not only mastering a new language but also diving deep into the world of automated testing.
 
 ## Projects
-### [_LeafGrow Web Application_](https://github.com/EvaTurtschin)
+### [_LeafGrow Web Application_]([https://github.com/EvaTurtschin](https://leafgrow-app-foign.ondigitalocean.app/#/))
 > -> Created detailed documentation: user stories, test plans adhering to ISO/IEC/IEEE 29119 and ISO/IEC 25010 standards, mindmaps, and state transition diagrams.
 > -> Defined types of testing and test design techniques.
 > -> Developed test scenarios, test cases, and entered all data into TestLink.
