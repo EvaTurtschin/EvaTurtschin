@@ -21,15 +21,20 @@ I am an aspiring Quality Assurance Engineer with a strong foundation in both aut
 ### Build Tools 
 - Gradle                   - Maven
 ### Testing Documentation
-- Test Plans               - Test Cases
-- Checklists               - Bug Reports
+- Test Plans
+- Test Cases
+- Checklists
+- Bug Reports
 - Test Design Techniques
 ### Methodologies
-- Agile                    - Version Control
-- Git                      - GitHub
+- Agile
+- Version Control
+- GitHub
 ### Project Management Tools                                             
-- Jira                     - Trello                                      
-- Confluence               - TestLink
+- Jira
+- Trello                                      
+- Confluence
+- TestLink
 ### Databases
 - PostgreSQL
 ### Additional Tools
