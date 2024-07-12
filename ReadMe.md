@@ -4,12 +4,18 @@ I am an aspiring Quality Assurance Engineer with a strong foundation in both aut
 
 ## Skills and Expertise
 ### Programming Languages                                                
-- Java                     - JavaScript                                  
-- Automation Tools         - Selenium WebDriver                          
-- Cucumber                 - TestNG                                     
-- JUnit                    - Logback                                     
-- OpenCSV                  - API Testing                                 
-- REST Assured             - Postman                                     
+- Java
+- JavaScript                                  
+- Automation Tools
+- Selenium WebDriver                          
+- Cucumber
+- TestNG                                     
+- JUnit
+- Logback                                     
+- OpenCSV
+- API Testing                                 
+- REST Assured
+- Postman                                     
 ### Development Basics   
 - Backend (Java Stack)     - Frontend (JavaScript)    
 ### Build Tools 
