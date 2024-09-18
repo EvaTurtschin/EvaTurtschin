@@ -3,7 +3,7 @@
 I am an aspiring Quality Assurance Engineer with a strong foundation in both automated and manual testing of various software applications, including online stores, client-server applications, and web applications. My journey in QA has equipped me with the skills to develop automation frameworks from scratch and implement them effectively in projects.
 
 ## Skills and Expertise
-### Programming Languages                                                
+### Programming Languages and Tools                                                
 - Java
 - JavaScript                                  
 - Automation Tools
