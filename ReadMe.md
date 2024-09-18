@@ -17,9 +17,11 @@ I am an aspiring Quality Assurance Engineer with a strong foundation in both aut
 - REST Assured
 - Postman                                     
 ### Development Basics   
-- Backend (Java Stack)     - Frontend (JavaScript)    
+- Backend (Java Stack)
+- Frontend (JavaScript)    
 ### Build Tools 
-- Gradle                   - Maven
+- Gradle
+- Maven
 ### Testing Documentation
 - Test Plans
 - Test Cases
