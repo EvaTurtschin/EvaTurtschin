@@ -1,11 +1,11 @@
 # Welcome to My GitHub Profile!
 ## About Me
-⧫ ISTQB Certified Tester Foundation Level 4.0
-⧫ 1 year of experience in manual and automated testing (Selenium + Java) of web applications.
-⧫ 5+ years of corporate office experience outside IT - managing processes, negotiations, and cross-functional collaboration, enhancing analytical and organizational skills.
-⧫ I write clear and detailed test artefacts, including test cases, checklists, and bug reports in English and in German (Thanks to my Linguistiks background and careful attitude to the word.)
-⧫ Extensive experience in functional, UX/UI, exploratory, regression, and API testing of web applications.
-⧫ Intensive traineeship course of manual mobile testing.
+- ISTQB Certified Tester Foundation Level 4.0
+- 1 year of experience in manual and automated testing (Selenium + Java) of web applications.
+- 5+ years of corporate office experience outside IT - managing processes, negotiations, and cross-functional collaboration, enhancing analytical and organizational skills.
+- I write clear and detailed test artefacts, including test cases, checklists, and bug reports in English and in German (Thanks to my Linguistiks background and careful attitude to the word.)
+- Extensive experience in functional, UX/UI, exploratory, regression, and API testing of web applications.
+- Intensive traineeship course of manual mobile testing.
 
 ## Skills and Expertise
 ### Programming Languages and Tools                                                
