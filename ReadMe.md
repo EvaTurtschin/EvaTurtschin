@@ -1,6 +1,11 @@
 # Welcome to My GitHub Profile!
 ## About Me
-I am an aspiring Quality Assurance Engineer with a strong foundation in both automated and manual testing of various software applications, including online stores, client-server applications, and web applications. My journey in QA has equipped me with the skills to develop automation frameworks from scratch and implement them effectively in projects.
+⧫ ISTQB Certified Tester Foundation Level 4.0
+⧫ 1 year of experience in manual and automated testing (Selenium + Java) of web applications.
+⧫ 5+ years of corporate office experience outside IT - managing processes, negotiations, and cross-functional collaboration, enhancing analytical and organizational skills.
+⧫ I write clear and detailed test artefacts, including test cases, checklists, and bug reports in English and in German (Thanks to my Linguistiks background and careful attitude to the word.)
+⧫ Extensive experience in functional, UX/UI, exploratory, regression, and API testing of web applications.
+⧫ Intensive traineeship course of manual mobile testing.
 
 ## Skills and Expertise
 ### Programming Languages and Tools                                                
