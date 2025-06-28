@@ -58,4 +58,4 @@ I pride myself on my ability to work effectively in teams, communicate clearly, 
 
 ### [Automation Testing Project for LeafGrow Web Application](https://github.com/EvaTurtschin/LeafGrow_QA_TestingProject.git))
 
-## Feel free to explore my repositories and projects. I am always open to feedback and collaboration!
+#### Feel free to explore my repositories and projects. I am always open to feedback and collaboration!
