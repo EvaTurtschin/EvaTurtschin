@@ -13,9 +13,7 @@
 - Playwright                        
 - JS/TS
 - Cucumber
-- Postman
 - REST Assured                                   
-- PostgreSQL
 - GraphQL
 - Appium
 - Docker
