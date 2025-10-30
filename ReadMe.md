@@ -21,7 +21,7 @@
 ## Projects
 ### [Automation Testing Project for 3snet.com Website (Regress UI + GitHub Actions CI + Allure Report)](https://github.com/EvaTurtschin/3snetCO_QA_Automation_Framework.git)
 
-### [Automation API Testing Project for the OpenFDA API (Postman + Newman)](https://github.com/EvaTurtschin/OpenFDA_API_Tests_Postman.git)
+### [Automation API Testing Project for the OpenFDA API (Postman + Newman + GitHub Actions CI)](https://github.com/EvaTurtschin/OpenFDA_API_Tests_Postman.git)
 
 ### [Manual Testing Project for Personal Profile Website (Cross-browser/Functional and compatibility testing)](https://github.com/EvaTurtschin/QA_Manual-Testing-Project_Depilation-Hamburg.git)
 
