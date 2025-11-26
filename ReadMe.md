@@ -29,4 +29,6 @@
 
 ### [Automation Testing Project for LeafGrow Web Application (UI Registration/Authorisation User flow)](https://github.com/EvaTurtschin/LeafGrow_QA_TestingProject.git)
 
+### [Technical Writer Documentation Portfolio](https://github.com/EvaTurtschin/Documentation-Portfolio_Technical-Writing.git)
+
 #### Feel free to explore my repositories and projects. I am always open to feedback and collaboration!
