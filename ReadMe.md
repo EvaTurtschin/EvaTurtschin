@@ -1,7 +1,7 @@
 # Welcome to My GitHub Profile!
 ## About Me
 - ISTQB Certified Tester Foundation Level 4.0
-- 3 years of experience in manual and automated testing (Selenium + Java) of web applications.
+- 2 years of experience in manual and automated testing (Selenium + Java) of web applications.
 - I write clear and detailed test artefacts, including test cases, checklists, and bug reports in English and in German.
 - Extensive experience in functional, UX/UI, exploratory, regression, and API testing of web applications.
 
@@ -12,11 +12,12 @@
 - Java
 - Playwright                        
 - JS/TS
-- Cucumber
-- REST Assured                                   
-- GraphQL
+- REST Assured
+- Postman                                 
+- SQL(PostgreSQL) / GraphQL
 - Appium
 - Docker
+- Charles / Fiddler
 
 ## Projects
 ### [Automation Testing Project for 3snet.com Website (Regress UI + GitHub Actions CI + Allure Report)](https://github.com/EvaTurtschin/3snetCO_QA_Automation_Framework.git)
